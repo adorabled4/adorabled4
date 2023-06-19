@@ -1,25 +1,11 @@
-<!--
-**shihuili1218/shihuili1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Count](https://profile-counter.glitch.me/adorabled4/count.svg)
 
-Here are some ideas to get you started:
+<h2><img src="http://oss.dhx.icu/dhx/giphy.gif" width="50"> Hi, I'm adorabled4 ! <img src="http://oss.dhx.icu/dhx/giphy.gif" width="50"></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓I am a sophomore majoring in **Internet of Things Engineering** at Zhengzhou University
+- 💻️I'm currently  learning **software development**
+- 🤩 I love **exercise, music**
+- 📧 How to reach me: **[dhx2648466390@163.com](mailto:dhx2648466390@163.com)**
+- 😄 You may like [My Blog](https://blog.dhx.icu)
 
-### Hi there 👋
-
-
-<p align="center">
-  <a href="https://github.com/shihuili1218/klein" target="_blank"><img src="https://img.shields.io/badge/klein-paxos-brightgreen?style=for-the-badge&logo=&logoColor=white" alt="Visualize everything, algorithm, framework...." /></a>
-  <a href="https://github.com/shihuili1218/visual" target="_blank"><img src="https://img.shields.io/badge/visual-consensus-orange?style=for-the-badge&logo=&logoColor=white" alt="Klein is a Paxos based distributed caching framework" /></a>
-  <a href="https://ofcoder.com" target="_blank"><img src="https://img.shields.io/badge/ofcoder-blog-blue?style=for-the-badge&logo=&logoColor=white" alt="Blogs" /></a>
-</p> 
-
-![](https://raw.githubusercontent.com/shihuili1218/shihuili1218/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorabled4&layout=compact)](https://github.com/adorabled4/github-readme-stats)
