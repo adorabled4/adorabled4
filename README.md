@@ -9,3 +9,5 @@
 - 😄 You may like [My Blog](https://blog.dhx.icu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorabled4&layout=compact)](https://github.com/adorabled4/github-readme-stats)
+
+![](https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg)
