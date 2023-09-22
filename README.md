@@ -1,9 +1,9 @@
 
-<div style="font-size:70px">Hi, I'm adorabled4 !</div>
+# Hi, I'm adorabled4 !
 
 
-- 👨‍🎓I am currently studying Internet of Things Engineering in Zhengzhou University
-- 💻️I'm currently learning **software development**
+- 👨‍🎓 I'm currently studying Internet of Things Engineering in Zhengzhou University
+- 💻️ I'm currently learning **software development**
 - 🤩 I love **exercise, music, cycling**
 - 📧 You can reach me: **[dhx2648466390@163.com](mailto:dhx2648466390@163.com)**
 - 📚 You may like [My Blog](https://adorabled4.gitee.io/)
