@@ -6,7 +6,7 @@
 - 💻️ I'm currently learning **software development**
 - 🤩 I love **exercise, music, cycling**
 - 📧 You can reach me: **[dhx2648466390@163.com](mailto:dhx2648466390@163.com)**
-- 📚 You may like [My Blog](https://adorabled4.gitee.io/)
+- 📚 You may like [My Blog](https://blog.dhx.icu/)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/adorabled4/count.svg) visitor.
 
